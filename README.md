@@ -65,12 +65,14 @@ Step-4: perform RTL LOGIC and get waveform. Step-5: End the module.
 
 
 
-### PROGRAM 
+### PROGRAM
+```
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
 Developed by: Samyuktha S
 RegisterNumber: 212222240089
 */
+```
 ```
 encoder :
 module encoder (a0,a1,a2,y0,y1,y2,y3,y4,y5,y6,y7);
